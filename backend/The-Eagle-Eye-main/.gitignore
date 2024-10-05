@@ -1,0 +1,4 @@
+venv*
+main_code_*
+*__pycache__*
+.idx*
